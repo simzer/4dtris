@@ -14,8 +14,6 @@ README
  This Application is a Tetris game extended to 4 dimension. The 
  visulaization uses OpenGL and GLUT. 
 
- Project web page: http://sourceforge.net/apps/wordpress/dtris/
-
  ---
 
  Preinstall for bzr version:
