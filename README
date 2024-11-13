@@ -11,8 +11,8 @@ README
  4DTRIS
  Created by Simon, Laszlo 
 
- This Application is a Tetris game extended to 4 dimension. The 
- visulaization uses OpenGL and GLUT. 
+ This Application is a Tetris game extended to 4 dimensions. The 
+ visualization uses OpenGL and GLUT. 
 
  ---
 
